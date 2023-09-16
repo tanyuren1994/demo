@@ -14,6 +14,8 @@ public class DemoApp1 {
 			System.out.println("You can't divide by Zero");
 		}
 
+		RuntimeException e = new Exception();
+
 	}
 
 }
